@@ -1,8 +1,7 @@
 {
-  "name": "sync-energy",
+  "name": "proto",
   "description": "Prototype",
   "version": "1.0.0",
-  "author": "Sayonsom Chanda <sayon@ieee.org>",
   "license": "MIT",
   "private": true,
   "scripts": {
